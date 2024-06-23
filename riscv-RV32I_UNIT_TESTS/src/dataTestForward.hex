@@ -1,0 +1,12 @@
+@000000 deadbeef_cafebabe_B00000B5_babebabe_facccccc_babe2fac_b17C3E55_aaaaaaff_EA7D1CCC_22222222_33333333_44444444_55555555_66666666_77777777_88888888
+@000010 00548513_00540493_03802403_03802403_00728393_00428313_03c02283_00002203_c1810193_7d008113_3e800093 
+//    addi x1 , x0,   1000  /* x1  = 1000 0x3E8 */
+//    addi x2 , x1,   2000  /* x2  = 3000 0xBB8 */
+//    addi x3 , x2,  -1000  /* x3  = 2000 0x7D0 */
+//	  lw x4, 0(x0)	/* x4 = 88888888*/
+//    lw x5, 60(x0)	/* x5 = deadbeef*/
+//    addi x6,x5,4	/* x6 = deadbed3*/
+//    addi x7,x5,7	/* x7 = deadbefa*/
+//    lw x8, 56(x0)	/* x8 = cafebabe*/
+//    addi x9, x8, 5	/* x9 = cafebac3*/
+//    addi x10, x9, 5 /* x10 = cagebac8*/

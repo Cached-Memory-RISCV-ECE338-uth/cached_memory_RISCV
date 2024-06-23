@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 13 21:23:08 2024
+# Process ID: 736
+# Current directory: /home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/src
+# Command line: vivado
+# Log file: /home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/src/vivado.log
+# Journal file: /home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/src/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/project_cache/project_cache.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config /home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/project_cache/tb_behav.wcfg
+source tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+save_wave_config {/home/inf2021/kvarakliotis/Desktop/riscv-RV32I_UNIT_TESTS/project_cache/tb_behav.wcfg}
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
